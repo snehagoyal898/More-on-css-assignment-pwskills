@@ -1,0 +1,20 @@
+.container{
+    border: 1px solid black;
+}
+.container h1{
+    font-size: xx-large;
+    text-align: center;
+}
+.container p{
+    
+color: grey;
+font-weight: 400px;
+padding: 30px 30px;
+font-size: large;
+}
+.container img{
+    height: auto;
+    width: 100%;
+    padding: 30px 30px;
+    box-sizing: border-box;
+}

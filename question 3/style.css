@@ -1,0 +1,39 @@
+ul{
+    list-style-type:none;
+    margin:0;
+    padding: 0;
+    background-color: rgb(7, 100, 49);
+    overflow: hidden;
+    border: 2px solid black;
+}
+li{
+    float: left;
+
+}
+li a{
+    display: block;
+    padding: 20px 20px;
+    color: white;
+    text-align: center;
+    
+}
+
+
+li a:hover {
+  background-color: #111;
+}
+.child-1{
+border: dotted;
+}
+.child-2{
+    border:dashed
+}
+.child-3{
+    border:double;
+}
+.child-4{
+    border:groove;
+}
+.child-5{
+    border: outset;
+}
